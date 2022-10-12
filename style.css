@@ -1,0 +1,45 @@
+html {
+    background-image: linear-gradient(to left, #b0ffde, #b3ffc7);
+    font-family: "Silkscreen";
+    color: #00595966;
+    
+}
+
+body {
+    max-width: 65%;
+    
+    padding: 11vw 14vh;
+}
+
+img {
+    width: 55px;
+    height: 55px;
+    border-radius: 100%;
+}
+
+.x {
+    border: solid 1px black;
+    border-radius: 1%;
+}
+
+.y {
+    border: solid 1px black;
+    border-radius: 1%;
+    mergin-bottom: 10px;
+}
+
+a {
+    font-size: 10px;
+    color: #00595966;
+    padding: 8px 18px;
+}
+
+.a {
+    padding: 10px 10px;
+}
+
+.ball {
+  position: absolute;
+  border-radius: 70%;
+  opacity: 0.5;
+    }
